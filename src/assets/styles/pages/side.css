@@ -1,0 +1,9 @@
+@font-face {
+  font-family: 'Cn Font';
+  src: url('@assets/fonts/SourceHanSerifCN.otf.woff2') format('woff');
+}
+
+@font-face {
+  font-family: 'En Font';
+  src: url('@assets/fonts/FiraCode.ttf') format('ttf');
+}

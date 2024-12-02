@@ -1,0 +1,22 @@
+{
+  "name": {
+    "message": "谷歌浏览器扩展示例",
+    "description": "谷歌浏览器扩展名称"
+  },
+  "description": {
+    "message": "谷歌浏览器扩展简单示例",
+    "description": "谷歌浏览器扩展描述"
+  },
+  "pages_option": {
+    "message": "扩展设置",
+    "description": "扩展设置页面标题"
+  },
+  "pages_popup": {
+    "message": "扩展弹出窗口",
+    "description": "扩展弹出窗口页面标题"
+  },
+  "pages_side": {
+    "message": "扩展侧边栏",
+    "description": "扩展侧边栏页面标题"
+  }
+}

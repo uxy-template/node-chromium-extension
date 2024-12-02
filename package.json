@@ -1,0 +1,26 @@
+{
+  "name": "rsbuild-solid-ts",
+  "private": true,
+  "version": "1.0.0",
+  "scripts": {
+    "build": "rsbuild build",
+    "dev": "rsbuild dev --open",
+    "format": "prettier --write .",
+    "preview": "rsbuild preview"
+  },
+  "dependencies": {
+    "crypto-js": "^4.2.0",
+    "solid-js": "^1.9.3"
+  },
+  "devDependencies": {
+    "@rsbuild/core": "^1.1.4",
+    "@rsbuild/plugin-babel": "^1.0.3",
+    "@rsbuild/plugin-solid": "^1.0.4",
+    "@types/chrome": "^0.0.287",
+    "@types/crypto-js": "^4.2.2",
+    "@types/node": "^22.10.1",
+    "prettier": "^3.3.3",
+    "typescript": "^5.7.2",
+    "uxy-plugin-rsbuild-chromium-plugin": "^1.0.8"
+  }
+}

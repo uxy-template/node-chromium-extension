@@ -1,0 +1,22 @@
+{
+  "name": {
+    "message": "Chrome Extension Example",
+    "description": "Chrome Extension Name"
+  },
+  "description": {
+    "message": "Simple Example of Chrome Extension",
+    "description": "Description of Chrome Extension"
+  },
+  "pages_option": {
+    "message": "Extension Settings",
+    "description": "Extension Settings Page Title"
+  },
+  "pages_popup": {
+    "message": "Extension Popup Window",
+    "description": "Extension Popup Window Page Title"
+  },
+  "pages_side": {
+    "message": "Extension Sidebar",
+    "description": "Extension Sidebar Page Title"
+  }
+}

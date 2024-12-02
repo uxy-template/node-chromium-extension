@@ -1,0 +1,41 @@
+@font-face {
+  font-family: 'Cn Font';
+  src: url('@assets/fonts/SourceHanSerifCN.otf.woff2') format('woff');
+}
+
+@font-face {
+  font-family: 'En Font';
+  src: url('@assets/fonts/FiraCode.ttf') format('ttf');
+}
+
+div.uxy-chromium-plugin-option {
+  display: flex;
+  flex-flow: column nowrap;
+  justify-content: stretch;
+  align-items: flex-start;
+  gap: 10px;
+}
+
+div.uxy-chromium-plugin-option > div.theme {
+  display: flex;
+  flex-flow: row nowrap;
+  justify-content: flex-start;
+  align-items: center;
+  gap: 10px;
+}
+
+div.uxy-chromium-plugin-option > div.font-size {
+  display: flex;
+  flex-flow: row nowrap;
+  justify-content: flex-start;
+  align-items: center;
+  gap: 10px;
+}
+
+div.uxy-chromium-plugin-option > div.language {
+  display: flex;
+  flex-flow: row nowrap;
+  justify-content: flex-start;
+  align-items: center;
+  gap: 10px;
+}
